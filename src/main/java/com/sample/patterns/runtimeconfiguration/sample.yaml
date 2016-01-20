@@ -1,0 +1,9 @@
+!!com.cisco.vcs.reports.restIF.ConfigProps
+connection: {driverClass: oracle driver, password: reportsdba, url: httpurl, username: reportsdba}
+environment: dev
+released: 2012-11-30T00:00:00Z
+service:
+  serviceName: alarms
+  servicePath: /opt/vcs/reports
+  serviceprops: {key1: value1, key2: value2}
+version: '1.0'
